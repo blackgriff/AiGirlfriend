@@ -2,7 +2,7 @@ from langchain import RunnableWithMessageHistory, LLMClient, Retriever
 from openai import ChatGPT
 
 # Configure OpenAI credentials
-api_key = "Ysk-LuutgY48Vuc0zLlnxXRjT3BlbkFJC34EgkdTSEfXggU7NICl"
+api_key = 
 chat_gpt = ChatGPT(api_key)
 
 # Configure LangChain
